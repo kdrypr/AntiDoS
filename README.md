@@ -1,5 +1,5 @@
 # About
-AntiDos is a open source PHP class having simply working method to block HTTP flood, DoS _(Denial Of Service)_ attacks. It records user's requests and blocks the attacker IP adress using Apache htaccess file by you've specified config.
+AntiDos is a open source PHP class having simply working method to block HTTP flood, DoS _(Denial Of Service)_ attacks. It records requests of users and while an attack happens, blocks the attacker's IP address using Apache htaccess file. It is customizable using its config file by webmasters. 
 
 #Installation
 1. Upload the files to your web site via FTP _(to a desired location)_: **"AntiDos.php", "AntiDos_config.php", "AntiDos_cron.php"**
